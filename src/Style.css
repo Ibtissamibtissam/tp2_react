@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, rgb(230, 230, 238), rgb(199, 75, 187));
+  }
+  #img{
+    margin-top:240px ;
+  }
+  #b{
+    margin-left: -850px;
+  position: relative;
+   bottom: -490px;
+  }
+  #c{
+    margin-left: 850px;
+  position: relative;
+   top: -265px;
+  }
